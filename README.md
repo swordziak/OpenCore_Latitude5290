@@ -1,4 +1,7 @@
 # Dell Latitude 5290 - OpenCore Configuration
+
+<img align="left" src="./Screenshot.png?raw=true" alt="macOS Sonoma running on the Latitude 5290" width="425">
+
 [![macOS](https://img.shields.io/badge/macOS-BigSur-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
